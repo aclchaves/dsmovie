@@ -16,4 +16,4 @@ function MovieStars() {
     );
 }
 
-export default MovieStars
+export default MovieStars;
