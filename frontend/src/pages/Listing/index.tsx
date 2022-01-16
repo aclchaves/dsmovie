@@ -1,6 +1,3 @@
-import MovieSCard from "components/MovieCard";
-import Pagination from "components/Pagination";
-
 function Listing() {
 
     return (
